@@ -16,5 +16,4 @@ if __name__ == "__main__" :
     sol=solution()
     nums=[1,2,2,3,4,6,6]
     soln=sol.removeDuplicates(nums)
-    print("Total duplicate number: " , soln)
     print("After removing duplicate numbers from array the array becomes :",nums[:soln])

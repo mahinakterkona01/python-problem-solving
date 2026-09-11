@@ -14,16 +14,17 @@ Welcome to my problem-solving repository! Here, I track my progress from Python 
 ## 📌 Solved Problems
 
 ### 🟢 LeetCode Problems
-| #   | Title | Solution | Difficulty | Category |
+
+| # | Title | Solution | Difficulty | Category |
 | :--- | :--- | :---: | :---: | :--- |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./leetcode/easy/palinedrome.py) | 🟢 Easy | Math / String |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./leetcode/easy/romanToInt.py) | 🟢 Easy | Hash Table / String |
-| 0026 | [Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/easy/remove-duplicates-from-sorted-array.py) | 🟢 Easy | Hash Table / Arrays  |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/easy/removeDuplicatesNumberFromArray.py) | 🟢 Easy | Hash Table / Arrays |
 
-
-<br>
+< br>
 
 ### 🔰 Python Fundamentals & Basic Practice
+
 | Topic | Problem / Script | Solution Path | Concept Learned |
 | :--- | :--- | :---: | :--- |
 | 01 Basics | Two Number Sum | [Python](./practice/01_Basics/two_number_sum.py) | Variables & Math operations |
@@ -41,5 +42,6 @@ Welcome to my problem-solving repository! Here, I track my progress from Python 
 ## 🛠️ How to Run Locally
 
 1. Clone this repository:
+
    ```bash
-   git clone [https://github.com/mahinakterkona01/python-problem-solving.git](https://github.com/mahinakterkona01/python-problem-solving.git)
+   git clone [https://github.com/mahinakterkona01/python-problem-solving.git] (https://github.com/mahinakterkona01/python-problem-solving.git)
