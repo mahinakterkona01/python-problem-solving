@@ -16,6 +16,6 @@ class Solution:
 
 if __name__ == "__main__" :
     sol=Solution()
-    list=[1,2,3,4,2,6,7]
-    x=sol.remove_element(list,2)
-    print(f"Output array : {list[:x]}")
+    lst=[1,2,3,4,2,6,7]
+    x=sol.remove_element(lst,2)
+    print(f"Output array : {lst[:x]}")
