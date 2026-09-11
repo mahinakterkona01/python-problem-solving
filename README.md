@@ -18,6 +18,8 @@ Welcome to my problem-solving repository! Here, I track my progress from Python 
 | :--- | :--- | :---: | :---: | :--- |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./leetcode/easy/palinedrome.py) | 🟢 Easy | Math / String |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./leetcode/easy/romanToInt.py) | 🟢 Easy | Hash Table / String |
+| 0026 | [Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/easy/remove-duplicates-from-sorted-array.py) | 🟢 Easy | Hash Table / Arrays  |
+
 
 <br>
 
