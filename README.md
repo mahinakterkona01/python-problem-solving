@@ -30,6 +30,7 @@ Welcome to my problem-solving repository! Here, I track my progress from Python 
 | 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/medium/bestTimeToBuyAndSellStock_II.py) | 🟢Medium | Dyanamic programming / Arrays / Greedy |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/easy/majorityElement.py) | 🟢 Easy | Two Pointers / Arrays / Sorting / counting / Boyer-Moore Voting Algorithm |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/medium/rotateArray.py) | 🟢Medium | Two Pointers / Arrays / Math |
+| 0274 | [H-Index](https://leetcode.com/problems/h-index/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/medium/h_index.py) | 🟢Medium | Sorting / Array / Counting sort |
 
 < br>
 
