@@ -24,6 +24,7 @@ Welcome to my problem-solving repository! Here, I track my progress from Python 
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/easy/removeElement.py) | 🟢 Easy | Two Pointers / Array |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/easy/mergeSortedArray.py) | 🟢 Easy | Two Pointers / Arrays / Sorting |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/easy/majorityElement.py) | 🟢 Easy | Two Pointers / Arrays / Sorting / counting / Boyer-Moore Voting Algorithm |
+| 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/easy/rotateArray.py) | 🟢 Medium | Two Pointers / Arrays / Math |
 
 < br>
 
