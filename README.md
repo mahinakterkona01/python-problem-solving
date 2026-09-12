@@ -28,6 +28,7 @@ Welcome to my problem-solving repository! Here, I track my progress from Python 
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/easy/bestTimeToBuyAndSellStock.py) | 🟢 Easy | Dyanamic programming / Arrays |
 | 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/medium/bestTimeToBuyAndSellStock_II.py) | 🟢Medium | Dyanamic programming / Arrays / Greedy |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/medium/jumpGame.py) | 🟢Medium | Dyanamic programming / Arrays / Greedy |
+| 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python](./leetcode/medium/jumpGameII.py) | 🟢Medium | Dyanamic programming / Arrays / Greedy |
 
 < br>
 
