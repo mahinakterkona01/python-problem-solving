@@ -1,6 +1,6 @@
 """
 LeetCode 58: Length of Last Word
-Problem Link: https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150
+Problem Link:https://leetcode.com/problems/length-of-last-word/?envType=study-plan-v2&envId=top-interview-150 
 Difficulty: Easy
 """
 class Solution:
