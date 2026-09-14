@@ -23,6 +23,7 @@ Welcome to my problem-solving repository! Here, I track my progress from Python 
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./leetcode/easy/romanToInt.py) | 🟢 Easy | Hash Table / String |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/easy/removeDuplicatesNumberFromArray.py) | 🟢 Easy | Two Pointers / Arrays |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/easy/removeElement.py) | 🟢 Easy | Two Pointers / Array |
+| 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/hard/trappingRainWater.py) | 🟢Hard | Arrays / Two pointers / Dyanamic programming / Stack / Monotonic Stack |
 | 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python](./leetcode/medium/jumpGameII.py) | 🟢Medium | Dyanamic programming / Arrays / Greedy |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/medium/jumpGame.py) | 🟢Medium | Dyanamic programming / Arrays / Greedy |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/?envType=study-plan-v2&envId=top-interview-150) | [Python](./leetcode/easy/lengthOfLastWord.py) | 🟢 Easy | String |
